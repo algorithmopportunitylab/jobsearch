@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## RESEARCH PARTICIPANTS NEEDED!
 
-You can use the [editor on GitHub](https://github.com/algorithmopportunitylab/jobsearch/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Tell us about your job searches! We’re studying how people who **earn between $0 - $45,000 per year** search for paid work! Eligible participants will receive a $25 Amazon gift card for completing a 1 hour interview. Interview participants will also be invited to complete a brief survey and will be compensated an additional $10 for voluntarily taking the survey; the survey takes approximately 20 - 30 minutes to complete; both interview and survey should take no more than 1 hour and 30 minutes. Participation is voluntary. All participant data will be kept confidential. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To sign up complete this screening survey (to participate in the interview study, please provide your contact info in the survey form): {insert-link}
 
-### Markdown
+## Eligibility
+- 18 years or older
+- Currently living in the United States
+- Previously/currently earn between $0 - $45,000 per year 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Sign-up/Screening Survey
+To sign up, contact Sara Kingsley at skingsle@cs.cmu.edu ~ or ~ complete the screening survey at this link: {insert-link}
 
-```markdown
-Syntax highlighted code block
+## Contact
+To sign up, contact Sara Kingsley at skingsle@cs.cmu.edu ~ or ~ complete the screening survey at this link: {insert-link}
 
-# Header 1
-## Header 2
-### Header 3
+## Right to Ask Questions & Contact Information
+If you have any questions about this study, you should feel free to ask them by contacting the Principal Investigator now at **Sara Kingsley, PhD student, Human-Computer Interaction Institute (HCII), Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA, USA: skingsle@cs.cmu.edu.** If you have questions later, desire additional information, or wish to withdraw your participation please contact the Principal Investigator by mail, phone or e-mail in accordance with the contact information listed above.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/algorithmopportunitylab/jobsearch/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have questions pertaining to your rights as a research participant; or to report concerns to this study, you should contact the **Office of Research integrity and Compliance** at Carnegie Mellon University. **Email**: irb-review@andrew.cmu.edu . **Phone**: 412-268-1901 or 412-268-5460.
